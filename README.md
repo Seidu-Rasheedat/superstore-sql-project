@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes retail sales data using SQL Server. The dataset contains approximately 10,000 records of orders, customers, and product information.
+This project analyzes retail sales data using SQL Server, structuring raw data into relational tables to explore trends in sales, customer behavior, and product performance.
 
 ## Data Modeling
 
