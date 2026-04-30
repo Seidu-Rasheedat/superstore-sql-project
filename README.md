@@ -1,4 +1,4 @@
-# Superstore SQL Project
+# Retail Sales SQL Project
 
 ## Overview
 
